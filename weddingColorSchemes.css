@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.palettes {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid lightgray;
+  padding: 20px;
+  margin: 20px;
+}
+
+.swatch {
+  height: 100px;
+  width: 100px;
+}
+
